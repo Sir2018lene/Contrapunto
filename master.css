@@ -1,0 +1,162 @@
+
+body{
+ background-color: #000;
+}
+
+
+.container{
+  max-width: 1435px;
+  background-image: url(img/pantalla3.jpg);
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: 100%100%;
+
+  
+}
+
+/*.row{
+border: 5px solid #0ee03c;
+size: 100%;
+padding: 25px;
+
+}*/
+
+
+#encabezado{
+ width: 70%;
+  height: 200px;
+  float: left;
+}
+/*
+#home{
+  border:10px solid chartreuse;
+  width: 20%;
+  height: 15%;
+  float: right;
+  
+   }*/
+.img-fluid{
+  align-self: center;
+  padding-top: 5px;
+  padding-left: 25px;
+  padding-bottom: 125px;
+  
+}
+
+.ins-link{
+  border:10px solid rgb(9, 5, 219);
+  width: 20%;
+  height: 200px;
+  
+}
+
+h5 {
+  font-size: 1.5rem;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.modal-body{
+  font-size: 1.5rem;
+}
+.footer{
+  height: 265px;
+}
+
+
+/*
+
+
+.vid1{
+  width: none;
+  height: auto; overflow; hidden;
+  float: right;
+ padding: 10px;
+  
+}
+.vid2{
+  width:none; 
+  height: auto; overflow; hidden;
+  float: right;;
+ padding: 5px;
+}
+}
+header{
+  width: 1000px;
+  height: 125px;
+  border: 0px;
+}
+
+.x{
+  width:50px;
+  height:50px;
+  
+}
+#cerrar{
+
+
+}
+.modal{
+  background-color: #fff;
+  box-shadow: 0px 0px 30px #030F25;
+  border-radius: 20px;
+  font-family:aharoni color:#030F25;
+  font-size: 1em;
+  margin: 10% auto;
+  padding: 20px;
+  position: relative;
+  width: 500px;
+  height: 200px;;
+  display: none;
+}
+
+h2{
+  font-family: arial; color: #000;
+  font-size: 2em;
+  margin-bottom: 10px;
+
+}
+
+
+}
+.menu{
+  width: 300px;
+  height: 100px;
+  border:0px solid;
+  float:right;
+}
+.menu:hover{
+  image:"signo3.png"
+}
+.menu ul{
+  }
+.menu ul li{
+  list-style: none;
+  float: left;
+  padding: 1px 7px;
+}
+
+
+/*texto de los videos
+.text{
+  width: 380px;
+  height: 175px;
+  float: right;
+  margin-left: 20px;
+  margin-right: 60px;
+  font-family: arial; color:#000;
+  font-size: 20px;
+}
+
+
+
+
+
+#titulo{
+  width: 950px;
+  height: 200px;
+  text-align:right;
+  padding-top: 50px;
+  font-family: aharoni; color:#fff;
+  font-size: 3em;
+
+}
